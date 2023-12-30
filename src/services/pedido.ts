@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const BASE_URL = "https://mu44lco4c2.execute-api.us-east-1.amazonaws.com";
+const BASE_URL =
+  "https://https://gm8kyyqtdb.execute-api.us-east-1.amazonaws.com";
 
 const pedidoService = {
   create: async (

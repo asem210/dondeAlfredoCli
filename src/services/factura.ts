@@ -1,7 +1,8 @@
 import axios from "axios";
 import { FacturayData } from "../entities/factura";
 
-const BASE_URL = "https://mu44lco4c2.execute-api.us-east-1.amazonaws.com";
+const BASE_URL =
+  "https://https://gm8kyyqtdb.execute-api.us-east-1.amazonaws.com";
 
 const facturaService = {
   create: async (total: number, fecha: string, id_usuario: number) => {
