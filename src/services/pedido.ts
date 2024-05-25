@@ -1,7 +1,6 @@
 import axios from "axios";
 
-const BASE_URL =
-  "https://https://gm8kyyqtdb.execute-api.us-east-1.amazonaws.com";
+const BASE_URL = "https://donde-alfredo-backend.onrender.com";
 
 const pedidoService = {
   create: async (
